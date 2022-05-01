@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @heitorbastiani
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning new things
-- 💞️ I’m looking to collaborate on a big challanges
 - 📫 How to reach me heitorcbastiani@gmail.com
 
 <!---
